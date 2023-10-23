@@ -1,8 +1,11 @@
-**/__pycache__/
-Dockerfile
+__pycache__/
 .dockerignore
-*.git
+Dockerfile
 *.pyc
 *.pyo
 *.pyd
-*.swp
+.Python
+db.sqlite3
+*.git
+*.so
+*.DS_Store
